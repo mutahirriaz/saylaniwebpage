@@ -1,0 +1,328 @@
+
+/* Styling of TOPBAR */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+ul,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.head-buttons a{
+    font-size: 11px;
+    margin-left: 1px;
+    border-radius: 0px;
+    
+}
+.social{
+    cursor: pointer;
+}
+.dropdown:hover{
+    color: blue;
+}
+
+/* STYLING OF HEADER */
+/* Styling of marque one */
+
+.marqueone{
+    font-family: 'Times New Roman', Times, serif;
+}
+#marqueegreentext{
+    color: #00ff00;
+}
+#marqueebluetext{
+  color: blue;
+}
+
+/* Styling of introduction heading */
+#intro{
+    color: #316dc3;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#duction{
+    color:#427900 ;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*  Styling of introduction paragraph  */
+#introductionparagraph{
+    text-align: justify;
+
+    line-height: 2em;
+}
+/* styling for counter */
+.counter{
+    background-color: #2655e8;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+/* styling for counter images and typography */
+#dailydastrakhan{
+    color: white;
+    font-size: medium;
+    padding-top: 8px;
+}
+#monthly{
+    color: #00ff00;
+}
+#counterno1{
+    color: white;
+    padding-top: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#familyadoption{
+    color: white;
+    font-size: medium;
+    padding-top: 8px;
+}
+#counterno2{
+    color: white;
+    padding-top: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#medical{
+    color: white;
+    font-size: medium;
+    padding-top: 8px;
+}
+#counterno3{
+    color: white;
+    padding-top: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#education{
+    color: white;
+    font-size: medium;
+    padding-top: 8px;
+}
+#counterno4{
+    color: white;
+    padding-top: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* Styling For Cards Heading */
+#cardsheading{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: #316dc3;
+    padding-top: 10px
+}
+.background{
+    background-color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 1px 1px 18px 6px #ccc;
+}
+.background1{
+    background-color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 1px 1px 18px 6px #ccc
+}
+
+/* Styling For MISSION AND UPCOMING PROJECTS and for Upcoming Events Section */
+.projectheading{
+    color: #316dc3;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-top: 70px;
+   
+    
+}
+.separator{
+    width: 90px;
+    background-color: #427900;
+    height: 2px;
+    display: block;
+}
+.HEPATITIS{
+    color: #316dc3;
+    font-family: serif;
+}
+.HOUSINGSOCIETY{
+    color: #316dc3;
+    font-family: serif;
+}
+.hepatitissection{
+    background-color: #f7f8fa;
+    padding: 15px 15px 15px 15px;
+    border: 1px solid #f7f8fa ;
+}
+.housingsocietysection{
+    background-color:#f7f8fa ;
+    padding: 15px 15px 15px 15px;
+    border: 1px solid #f7f8fa ;
+}
+.itliteracysection{
+    background-color:#f7f8fa ;
+    padding: 15px 15px 15px 15px;
+    border: 1px solid #f7f8fa ;
+}
+.tharparkarsection{
+    background-color:#f7f8fa ;
+    padding: 15px 15px 15px 15px;
+    border: 1px solid #f7f8fa ;
+}
+.ITLITERACY{
+    color: #316dc3;
+    font-family: serif;
+}
+.THARPARKAR{
+    color: #316dc3;
+    font-family: serif;
+}
+/*  Styling For MISSIONANDUPCOMINGPROJECTS marquee  */
+.MISSIONANDUPCOMINGPROJECTS marquee{
+    height: 200px;
+    width: 250px;
+}
+/* Styling For Image Gallery Heading */
+.homefooter{
+    line-height: 27px;
+}
+
+
+.headingimagegallery{
+    margin-top: 90px;
+}
+/*  Styling For Footer   */
+.homefooter{
+    background-color: #25272e;
+    margin-top: 180px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+/*  Styling for first column footer  */
+.phone{
+    color: #39610c;
+}
+.headoffice{
+    color: #9e9e9f;
+    font-size: 15px;
+}
+.bahadurabad{
+    color: #9e9e9f;
+    font-size: 15px;
+}
+.footertext{
+    color:#9e9e9f ;
+    padding-left: 10px;
+    font-size: 15px;
+}
+.envolope{
+    color:#39610c ;
+}
+.fontglobal{
+    color:#39610c ;
+    padding-left: 20px;
+}
+.number{
+    color:#9e9e9f ;
+    padding-left:10px;
+    padding-bottom: 5px; 
+    font-size: 15px;
+}
+/*  Styling for second column for footer  */
+
+.usefullink{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.seperator1{
+    width: 50px;
+    background-color: #427900;
+    height: 2px;
+    display: block;
+}
+.seperator2{
+    width: 250px;
+    height: 1px;
+    display: block;
+    background-color: #444444;
+}
+
+/* Styling for third column for footer */
+
+.connectwithus{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.footericonone{
+    padding: 7px 10px 7px 10px;
+    border: 2px solid #316dc3;
+    border-radius: 20px;
+    color: white;
+    background-color: #316dc3;
+}
+.footericontwo{
+    padding: 9px 10px 9px 10px;
+    border: 2px solid #316dc3;
+    border-radius: 20px;
+    color: white;
+    background-color: #316dc3;
+
+}
+
+.footericonthree{
+    padding: 7px 10px 7px 10px;
+    border: 2px solid #316dc3;
+    border-radius: 20px;
+    color: white;
+    background-color: #316dc3;
+
+}
+
+.footericonfour{
+    padding: 7px 10px 7px 10px;
+    border: 2px solid #316dc3;
+    border-radius: 20px;
+    color: white;
+    background-color: #316dc3;
+
+}
+.footercoloumn2{
+    margin-bottom: 30px;
+    
+}
+
+/* Styling for header */
+.headerbutton1{
+    color: white;
+    background-color: #316dc3;
+    border-radius: 20px;
+    font-size: 13px;
+}
+.headerbutton2:hover{
+    color: white;
+    background-color: #316dc3;
+    border-radius: 20px;
+}
+/* Styling for topbar */
+.whatsappicon{
+    border: 1px solid #65bc54;
+    background-color: #65bc54;
+    padding: 3px 10px 3px ;
+    border-radius: 5px;
+
+}
+/*  styling for copyright  */
+.copyright{
+    background-color: #316dd9;
+    padding-top: 20px;
+    font-size: small;
+    padding-bottom: 10px;
+   
+}
+#copyrighttext{
+    color: white;
+}
+#button1{
+    background-color: white;
+    color: #006618;
+    border: 1px solid #006618;
+}
